@@ -1,6 +1,6 @@
 # SIS_SBSA
 
-```markdown
+
 # Sainath Bahuuddeshiya Sanstha - Student Information System
 
 ## Overview
@@ -43,5 +43,4 @@ This project is a Student Information System built using Python's Tkinter librar
 
 ## Conclusion
 This project demonstrates the development of a student information system using Python's Tkinter library for the GUI and MySQL for database management. With features for data management and user-friendly interface, it provides an efficient solution for managing student records.
-```
-Copy and paste this Markdown content into a README.md file in your GitHub repository to document your project. Feel free to customize or expand upon it as needed!
+
